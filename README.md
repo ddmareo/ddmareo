@@ -1,5 +1,5 @@
-<h1>Hi, my name is Dustin Mareo Istanto 👋</h1>
-<hr />
+<h1>Hi, I'm Dustin Mareo Istanto 👋</h1>
+
 <p style="font-size: 1rem">
   I'm a passionate Informatics student with a focus on full-stack development and Artificial Intelligence. I thrive in team environments and am committed to continuous learning and growth in the tech industry.
 </p>
