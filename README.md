@@ -45,6 +45,7 @@
 ![Node-RED](https://img.shields.io/badge/Node%20RED-%23E12B33.svg?style=flat&logo=node-red&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%23FF5B00.svg?style=flat&logo=astro&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ## GitHub Statistics:
 
