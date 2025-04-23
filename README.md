@@ -6,7 +6,7 @@
 <ul>
 <li>I have several months of experience as a Full-Stack Developer, during which I contributed to multiple projects across both frontend and backend, gaining practical skills in building and maintaining scalable web applications. </li>
 <li>I have developed machine learning and deep learning models, with hands-on experience in projects involving computer vision, natural language processing, and data preprocessing, including basic analytics. </li>
-<li>I am currently expanding my backend development skills by learning NestJS, focusing on building efficient and scalable server-side applications. </li>
+<li>I am currently expanding my backend development skills by learning Django, focusing on building efficient and scalable server-side applications. </li>
 </ul>
 
 <p style="font-size: 1rem">
