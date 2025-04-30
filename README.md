@@ -48,8 +48,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ## GitHub Statistics:
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddmareo&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" height="150" style="margin-right: 50px; margin-left: 10px; margin-bottom: 25px" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddmareo&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" style="margin-top : 25px">
+![ddmareo's Stats](https://github-readme-stats.vercel.app/api?username=ddmareo&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![ddmareo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ddmareo&theme=vue&hide_border=true)
+![ddmareo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddmareo&theme=vue&show_icons=true&hide_border=true&layout=compact)
 </div>
